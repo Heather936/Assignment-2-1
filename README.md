@@ -26,5 +26,4 @@
 			</fieldset>
 		</div>
 		<input type="Submit" name="Submit">
-	</body>
-	</html>
+	
