@@ -6,9 +6,9 @@
 <body>
 	<hi>Instructions</hi>
 	<u1>
-		<li>1. Read the short story
-		<li>2. Enter the name of the character in the story.</li>
-		<li>3. Write at least 20 words describing the character.</li>
+		<li>Read the short story
+		<li>Enter the name of the character in the story.</li>
+		<li>Write at least 20 words describing the character.</li>
 	</ul>
 	<form id="mturk_form" name="mturk_form">
 		<div>
