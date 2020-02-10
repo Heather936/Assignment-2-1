@@ -25,6 +25,6 @@
 				</p>
 			</fieldset>
 		</div>
-		<input type="submit">
-</body>
-</html>
+		<input type="Submit" name="Submit">
+	</body>
+	</html>
