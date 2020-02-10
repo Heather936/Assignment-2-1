@@ -1,4 +1,4 @@
-# Assignment-2-1
+# Assignment: 2-1
 
 <!DOCTYPE html>
 <html>
@@ -18,14 +18,15 @@
 
 	<hi>Instructions</hi>
 	<u1>
-		<li>Enter the name of the character in the story.</li>
-		<li>Write <span>at least 20 words</span> describing the character.</li>
+		<li>1. Read the short story
+		<li>2. Enter the name of the character in the story.</li>
+		<li>3. Write at least 20 words describing the character.</li>
 	</ul>
 	
 	<form id="mturk_form" name="mturk_form">
 		<div>
 			<fieldset>
-				<legend>First Story</legend>
+				<legend>Story</legend>
 					<p>
 						<h4>SCP-2017 is an African-American human female, about 7 years old. It is underweight compared to non-anomalous children, displays symptons of anemia such as gray pallor and cold extremities, and is unusually shy and withdrawn. Its anomalous effect manifests when a human subject makes unprotected skin contact with SCP-2017. The subject experiences a condition tentatively called Sudden Onset Dissociation Disorder, or SCP-2017-Triggered Derealization Disorder. The affected subject recognizes itself as an entity but perceives the external world as foreign and nonsensical. SCP-2017-Triggered Dissociation Disorder will cause subjects to have difficulty understanding or internalizong even the most basic facets of human behavior. Subjects in the late stages of STDD will eventually perceive the entire physical world as lacking order of sense. In addition, affected subjects will uniformly speak of a place or plane of existence they claim possesses the consistency the physical world lacks. Subjects eventually descend into complete self-neglect before ecperiencing heart failure and a longer than noraml period of post-mortem brain activity. Brain death will often be attended with other anomalous phenomena.
 						Worth noting is the fact that other than SCP-2017's tacitum nature, it is psychologically healthy and does not suffer from any type of dissociative disorder, anomalous or otherwise.</h4>
@@ -104,25 +105,7 @@
 			</fieldset>
 		</div>
 
-		<div>
-			<fieldset>
-				<legend>Fifth Story</legend>
-					<p>
-						<h4>SCP-2037 is an unknown anomalous species of the Sylvilagus genus. Specimens have an appearance similar to the Sylvilagus audubonii(Desert Cottontail rabbit) species. SCP-2073 also share a common diet with other species in the genus Sylvilagus. Currently the Foundation has 23 live SCP-2037 specimens in containment.     SCP-2037's anomalous properties manifest when specimens detect possible threats. When approached by any unknown or threatening subject, specimens of SCP-2037 will flee from the subject. Specimens are reported to quickly transform its body into a clump of dust while running. When in dust state, SCP-2037 specimens are very resistant to physical harm and are able to travel short distances if strong winds are present. When a significant enough amount of dust is lost, specimens in dust state will try to collect and accumulate dust from its evnvironment. If the loss is too significant to regain, SCP-2037 will decrease in size when returning to normal state.       Specimens in dust state are mainly composed of rabbit fur, flakes of dead skin, lint, and spider webs. No living tissue can be found within the dust partibles. When in normal states, no non-organic substances that are found in the dust state are detected.</h4>
-						<h4>  </h4>
-						<a href=http://www.scp-wiki.net/scp-2037>Link to Story</a>
-						<h4>  </h4>
-						<label>Characters name</label>
-						<input type = "text"
-							id = "myText"
-							value = "text here" />
-					</p>	
-				<p>
-					<label>Description of character</label>
-					<textarea id = "myTextArea" rows = "3" cols = "50">Your text here</textarea>
-				</p>
-			</fieldset>
-		</div>
+
 
 		<input type="submit">
 
