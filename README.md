@@ -7,7 +7,7 @@
 		<li>Read the short story
 		<li>Enter the name of the character in the story.</li>
 		<li>Write at least 20 words describing the character.</li>
-	</u1>
+
 	<form id="mturk_form" name="mturk_form">
 		<div>
 			<fieldset>
